@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<p>
 <imc src="https://github.com/sdncoder/spacemonkey2.png">
+  </p>
 
 <!--
 **sdncoder/sdncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
