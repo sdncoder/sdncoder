@@ -1,6 +1,9 @@
-### templates for network automation 👋
+### templates for playbooks...and playbooks for rundecks 👋
 
+Ansible playbooks are machine-parseable YAML.  Jinga2 is a templating engine that allows conditionals and loops to build a playbook.
+Ansible playbooks can be run sequentially using a playbooks that calls other playbooks (a rundeck).
 
+So, you build per device playbooks by leveraging Jinga2 templating and stack those playbooks to create a run deck.
 <!--
 **sdncoder/sdncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
