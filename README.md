@@ -1,7 +1,5 @@
-### Hi there 👋
-<p>
-<imc src="https://github.com/sdncoder/spacemonkey2.png">
-  </p>
+### templates for network automation 👋
+
 
 <!--
 **sdncoder/sdncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
