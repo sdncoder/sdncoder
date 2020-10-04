@@ -1,4 +1,5 @@
-### templates to build playbooks...and stacking playbooks to make rundecks 👋
+### templates to build playbooks...and a playbook running other playbooks to make rundecks 👋
+[ like a snake eating is tail]
 
 Ansible playbooks are machine-parseable YAML.  Jinga2 is a templating engine that allows conditionals and loops to build a playbook.
 Ansible playbooks can be run sequentially using a playbooks that calls other playbooks (a rundeck).
