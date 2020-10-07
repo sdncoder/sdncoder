@@ -3,7 +3,7 @@
 Ansible playbooks are machine-parseable YAML.  
 Jinga2 is a templating engine that allows conditionals and loops to build a playbook.
 
-<imc src="sdncoder/sdncoder/blob/main/missle.png"/>
+<imc src="/sdncoder/sdncoder/blob/main/missle.png"/>
 
 <!--
 **sdncoder/sdncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
