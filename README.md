@@ -1,6 +1,4 @@
-### Ansible playbooks, Jinga2 templating 👋
-Ansible playbooks are machine-parseable YAML.  
-Jinga2 is a templating engine that allows conditionals and loops to build a playbook.
+## scripting for interacting, parsing, and graphical display of network data
 
 
 
