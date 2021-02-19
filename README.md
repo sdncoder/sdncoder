@@ -1,4 +1,4 @@
-## scripting for interacting, parsing, and graphical display of network data
+scripting for interacting, parsing, and graphical display of network data
 
 
 
