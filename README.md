@@ -1,5 +1,5 @@
-### the network automation framework  
-_practical approaches to CI/CD with critical network infrastructure_  
+### the network automation framework
+_practical approaches towards a network engineering CI/CD_    
 
 
 
