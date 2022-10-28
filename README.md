@@ -1,4 +1,6 @@
-scripting for interacting with, parsing, and display of network data.
+### the network automation framework  
+_practical approaches to CI/CD with critical network infrastructure_  
+
 
 
 
