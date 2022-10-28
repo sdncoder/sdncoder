@@ -10,7 +10,7 @@ scripting for interacting with, parsing, and display of network data.
    stateDiagram
    direction LR
     [*] --> main
-    main --> branch : 1
+    main --> github branch : 1
     state branch {
     direction LR
     change --> review : 2
