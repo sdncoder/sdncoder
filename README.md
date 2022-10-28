@@ -18,5 +18,7 @@ scripting for interacting with, parsing, and display of network data.
     }
     merge --> main : 4
     main --> ansible : 5 git pull
+    state branch {
+    ansible --> router : 6 playbook
  ```
  
