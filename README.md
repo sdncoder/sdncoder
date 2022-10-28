@@ -1,5 +1,7 @@
-**the network automation framework**  
-_practical approaches towards a network engineering CI/CD_    
+**The network automation framework**  
+_practical approaches towards a network engineering CI/CD_  
+
+
 
 
 
