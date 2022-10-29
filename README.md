@@ -2,8 +2,8 @@
 _practical approaches towards a network engineering CI/CD_  
 
 
-* [network CI/CD](#network-framework)  
-* [diagramming as code](#mermaid-diagramming)  
+* [network CI/CD](https://github.com/sdncoder/network-ci-cd)  
+* [diagrams as code](https://github.com/sdncoder/diagrams)
 
 
 
