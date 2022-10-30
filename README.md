@@ -1,8 +1,9 @@
 **on network automation**  
  _practial approach towards a network engineering CI/CD_  
- 
-The CI/CD pipeline should be the only way to deploy network equipment to production.
-The CD of the pipeline in large-scale networks has limiations and risk that should be accounted for.  
+
+**Tenets of this GitHub:**    
+The CI/CD pipeline should be the only way to deploy network equipment to production.  
+The CD of the pipeline in large-scale networks has limiations and risk that should be accounted for with a modified workflow.    
 
 The **Network CI (integration)** uses the version control build of main-->branch-->review-->merge.  
 * Continuous Integration - automate the integration of configuration changes.  
