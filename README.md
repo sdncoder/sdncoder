@@ -1,6 +1,5 @@
-#### On Network Automation  
- _a practial approach towards a network engineering CI/CD_  
- _scripting to deploy and parse network data_  
+**On Network Automation**
+ _a practial approach towards a network engineering CI/CD and scripting_  
 
 **Tenets of this GitHub:**    
 * The CI/CD pipeline should be the only way to deploy network equipment to production.  
