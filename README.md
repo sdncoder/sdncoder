@@ -1,5 +1,6 @@
-**on network automation**  
- _practial approach towards a network engineering CI/CD_  
+####Network Automation
+ _a practial approach towards a network engineering CI/CD_  
+ _
 
 **Tenets of this GitHub:**    
 * The CI/CD pipeline should be the only way to deploy network equipment to production.  
@@ -13,8 +14,8 @@ The **Network CD (delviery and deployment)** has limitations and risk in network
 * Continuous Delivery - automate the test.    
 * Continuous Deployment - automate production deployment.    
 
-Continuous Delivery has limiations in network engineering as a "test" production network is non-existent.  
-Continuous Deployment has risk as their is no manual gate at a stage before push to the production network.  
+**Continuous Delivery has limiations in network engineering as a "test" production network is non-existent.**    
+**Continuous Deployment has risk as their is no manual gate at a stage before push to the production network.**    
 
 
 [network CI/CD](https://github.com/sdncoder/network-ci-cd)  
