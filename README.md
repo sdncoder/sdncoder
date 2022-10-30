@@ -5,7 +5,7 @@ The CI/CD pipeline should be the only way to deploy network equipment to product
 The Network CI (integration) uses the version control build of main-->branch-->review-->merge.  
 The Network CD (delviery and deployment) has limitations in network engineering as a "test" production network is non-existent.
 >_Continuous Delivery - automate the test._    
->_Continuous Deployment - auotmation production deployment._  
+>_Continuous Deployment - automate production deployment._  
 
  continuous deployment (automate production deployment)    
 * there is no manual gate at the stage - developed test automation is needed 
