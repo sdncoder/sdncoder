@@ -1,6 +1,8 @@
 **on network automation**  
-
  _practial approach towards a network engineering CI/CD_  
+ 
+The CI/CD pipeline should be the only way to deploy network equipment to production.  
+The Network CI (continuous integration) can follow that same ,,,
 [network CI/CD](https://github.com/sdncoder/network-ci-cd)  
 _ansible playbooks for network automation_  
 * [ansible playbooks](https://github.com/sdncoder/playbooks)  
