@@ -5,7 +5,7 @@ The CI/CD pipeline should be the only way to deploy network equipment to product
 The **Network CI (integration)** uses the version control build of main-->branch-->review-->merge.  
 * Continuous Integration - automate the integration of configuration changes.  
 
-The **Network CD (delviery and deployment)** has limitations in network engineering as a "test" production network is non-existent.  
+The **Network CD (delviery and deployment)** has limitations and risk in network engineering.    
 * Continuous Delivery - automate the test.    
 * Continuous Deployment - automate production deployment.    
 
