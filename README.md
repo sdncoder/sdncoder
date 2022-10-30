@@ -4,7 +4,7 @@
 * The CI/CD pipeline should be the only way to deploy network equipment to production.  
 * The Network CI (integration) uses the version control build of main-->branch-->review-->merge.  
 * The Network CD (delviery and deployment) has limitations in network engineering as a "test" production network is non-existent.
-> Continuous Deliver -  
+`Continuous Deliver -`  
 * 
 
 [network CI/CD](https://github.com/sdncoder/network-ci-cd)  
