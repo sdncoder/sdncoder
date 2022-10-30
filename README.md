@@ -4,7 +4,7 @@
 **Tenets of this GitHub:**    
 * A CI/CD pipeline should be the only way to deploy network equipment to production.  
 * The CD of the pipeline in large-scale networks has limiations and risk that should be accounted for with a modified workflow.  
-* Vendor and commercial network tools lead to "death by subscription", open-source and scripting can mitigate that.  
+* Vendor and commercial network tools lead to "death by subscription", open-source and scripting should be used to mitigate that.  
 
 The **Network CI (integration)** uses the version control build of main-->branch-->review-->merge.  
 * Continuous Integration - automate the integration of configuration changes.  
