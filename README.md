@@ -1,4 +1,4 @@
-**On Network Automation**
+**On Network Automation**  
  _a practial approach towards a network engineering CI/CD and scripting_  
 
 **Tenets of this GitHub:**    
@@ -16,10 +16,11 @@ The **Network CD (delviery and deployment)** has limitations and risk in network
 **Continuous Delivery has limiations in network engineering as a "test" production network is non-existent.**    
 **Continuous Deployment has risk as their is no manual gate at a stage before push to the production network.**    
 
+The repostiories:
 
 [network CI/CD](https://github.com/sdncoder/network-ci-cd)  
 _ansible playbooks for network automation_  
-* [ansible playbooks](https://github.com/sdncoder/playbooks)  
+* Ansible playbook examples:  [ansible playbooks](https://github.com/sdncoder/playbooks)  
 
 
 * [robot testing](https://github.com/sdncoder/robot)  
