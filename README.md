@@ -1,7 +1,7 @@
 **On Network Automation**  
- _a practial approach towards a network engineering CI/CD and scripting_  
+ _a practial approach towards a network engineering CI/CD and scripting._  
 
-**Tenets of this GitHub:**    
+**Tenets:**    
 * A CI/CD pipeline should be the only way to deploy network equipment to production.  
 * The CD of the pipeline in large-scale networks has limiations and risk that should be accounted for with a modified workflow.  
 * Vendor and commercial network tools lead to "death by subscription", open-source and scripting should be used to mitigate that.  
@@ -32,10 +32,7 @@ The **Network CD (delviery and deployment)** has limitations and risk in network
     ansible --> router : 6 playbook
     }
  ```
-
-
-
-The repostiories:
+**The Repostiories:**
 
 [network CI/CD](https://github.com/sdncoder/network-ci-cd)  
 _ansible playbooks for network automation_  
