@@ -16,6 +16,25 @@ The **Network CD (delviery and deployment)** has limitations and risk in network
 **_Continuous Delivery has limiations in network engineering as a "test" production network is non-existent._**    
 **_Continuous Deployment has risk as their is no manual gate at a stage before push to the production network._**    
 
+ ```mermaid
+   stateDiagram
+   direction LR
+    [*] --> main
+    main --> branch : 1
+    state branch {
+    direction LR
+    change --> review : 2
+    review --> merge : 3
+    }
+    merge --> main : 4
+    main --> ansible : 5 git pull
+    state network {
+    ansible --> router : 6 playbook
+    }
+ ```
+
+
+
 The repostiories:
 
 [network CI/CD](https://github.com/sdncoder/network-ci-cd)  
