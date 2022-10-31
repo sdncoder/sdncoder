@@ -34,7 +34,7 @@ The **Network CD (delviery and deployment)** has limitations and risk in network
  ```
 **The Repostiories:**
  
-* Ansible playbooks:  [ansible playbooks](https://github.com/sdncoder/playbooks)  
+* Ansible playbooks:  [playbooks](https://github.com/sdncoder/playbooks)  
 * Python examples:  
 * Robot Framework:  
 * AWK, SED, Perl, TextFSM:  
