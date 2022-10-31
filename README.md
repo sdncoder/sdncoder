@@ -38,7 +38,7 @@ The **Network CD (delviery and deployment)**
 * Python examples:  
 * Robot Framework:  
 * AWK, SED, Perl, TextFSM:  
-* NetworkX sodeling:  [MPLS SR](https://github.com/sdncoder/sr-te-networkx)  
+* NetworkX modeling:  [MPLS SR](https://github.com/sdncoder/sr-te-networkx)  
 * Containerlab simulation:  [Containerlab](https://github.com/sdncoder/models) 
 * Diagams as code:  [mermaid](https://github.com/sdncoder/diagrams)      
 
