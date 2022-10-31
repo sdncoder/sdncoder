@@ -9,7 +9,7 @@
 The **Network CI (integration)** uses the version control build of main-->branch-->review-->merge.  
 * Continuous Integration - automate the integration of configuration changes.  
 
-The **Network CD (delviery and deployment)** has limitations and risk in network engineering.    
+The **Network CD (delviery and deployment)**   
 * Continuous Delivery - automate the test.    
 * Continuous Deployment - automate production deployment.    
 
