@@ -1,5 +1,5 @@
 **On Network Automation**  
- _a practial approach towards a network engineering CI/CD pipeline_      
+ _a practial approach towards a network engineering CI/CD pipeline, scripting, and parsing_          
 
 **Tenets:**    
 * A CI/CD pipeline should be the only way to deploy network equipment to production.  
