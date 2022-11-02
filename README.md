@@ -36,10 +36,10 @@ The **Network CD (delviery and deployment)**
  
 * Ansible playbooks:  [playbooks](https://github.com/sdncoder/playbooks)  
 * Python examples:   [python](https://github.com/sdncoder/pyScripts)  
-* Robot Framework:  [robot scripts](https://github.com/sdncoder/robot)    
 * AWK, SED, Perl, TextFSM:  [text parsing](https://github.com/sdncoder/text-parsing)      
 * NetworkX modeling:  [MPLS SR](https://github.com/sdncoder/sr-te-networkx)  
-* Containerlab simulation:  [Containerlab](https://github.com/sdncoder/models) 
+* Containerlab simulation:  [Containerlab](https://github.com/sdncoder/models)  
+* Robot Framework:  [robot scripts](https://github.com/sdncoder/robot)  
 * Diagams as code:  [mermaid](https://github.com/sdncoder/diagrams)      
 
 
