@@ -7,7 +7,7 @@
 * Vendor and commercial network tools lead to "death by subscription", open-source and scripting should be used to mitigate that.  
 
 The **Network CI (integration)** uses the version control build of main-->branch-->review-->merge.  
-* Continuous Integration - automate the integration of configuration changes.  
+* Continuous Integration - automate the integration of configuration changes (version control with peer review).  
 
 The **Network CD (delviery and deployment)**   
 * Continuous Delivery - automate the test.    
