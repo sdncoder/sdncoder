@@ -32,6 +32,20 @@ The **Network CD (delviery and deployment)**
     ansible --> router : 6 playbook
     }
  ```
+ **A NetDevOps CI/CD**  
+   ```mermaid
+   stateDiagram
+   direction LR
+    PLAN-->CODE
+    CODE-->TEST
+    TEST-->DEPLOY
+    
+ ```
+ **PLAN** - topology drawing, IP and BGP reservations  
+ **CODE** - define config template and playbooks  
+ **TEST** - lab router build  
+ **DEPLOY** - maintenance window for production integration  
+ 
 **The Repostiories:**
  
 * Ansible playbooks:  [playbooks](https://github.com/sdncoder/playbooks)  
