@@ -48,6 +48,8 @@ The **Network CD (delviery and deployment)**
  **DEPLOY** - maintenance window for production integration  
  
 **The Repostiories:**
+
+
  
 * Ansible playbooks:  [playbooks](https://github.com/sdncoder/playbooks)  
 * Python examples:   [python](https://github.com/sdncoder/pyScripts)  
