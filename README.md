@@ -40,16 +40,7 @@ The **Network CD (delviery and deployment)**
     PLAN-->CODE
     CODE-->TEST
     TEST-->DEPLOY
-    
- ```
- **PLAN** - topology drawing, IP and BGP reservations  
- **CODE** - define config template and playbooks  
- **TEST** - lab router build  
- **DEPLOY** - maintenance window for production integration  
  
-**The Repostiories:**
-
-
  
 * Ansible playbooks:  [playbooks](https://github.com/sdncoder/playbooks)  
 * Python examples:   [python](https://github.com/sdncoder/pyScripts)  
