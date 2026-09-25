@@ -1,6 +1,6 @@
 ## hello
 
-## [📄 professional experience](https://github.com/sdncoder/cliffryan.github.io)
+## [📄 resume -](https://github.com/sdncoder/cliffryan.github.io)
 
 
 
