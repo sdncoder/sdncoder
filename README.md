@@ -1,6 +1,6 @@
 ## hello
 
-## [📄 resume -](https://github.com/sdncoder/cliffryan.github.io)
+## [📄 my resume](https://github.com/sdncoder/cliffryan.github.io)
 
 
 
