@@ -1,6 +1,6 @@
 ## hello
 
-## [📄 Current CV: ](https://github.com/sdncoder/cliffryan.github.io)
+## [📄 professional experience](https://github.com/sdncoder/cliffryan.github.io)
 
 
 
