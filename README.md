@@ -1,4 +1,4 @@
-### I build and deploy network infrastructure ~ backbone, cloud, data center...and work on the tooling to automate and optimize the deployment process.  
+#### I design, plan capacity for, and deploy network infrastructure — backbone, cloud, data center — plus the tooling to automate and optimize deployment.
 
 ### [📄 my resume](https://github.com/sdncoder/cliffryan.github.io)
 
