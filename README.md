@@ -1,4 +1,4 @@
-#### I design, plan capacity for, and deploy network infrastructure — backbone, cloud, data center — plus the tooling to automate and optimize deployment.
+#### all things network engineering deployment.
 
 ### [📄 my resume](https://github.com/sdncoder/cliffryan.github.io)
 
