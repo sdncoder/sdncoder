@@ -8,6 +8,6 @@
 - 🎥 **[Operational AI Insight](https://www.youtube.com/watch?v=A3yI-mZGIQ8)** — Tech Unscripted Podcast, video interview - Jul 2026 
 - 🎥 **[Cisco Interview](https://f.io/orOpCVkJ)** — Sports and data center fabrics - Cisco Marketing - Jul 2026
 
----  
-things I like to trend  
+
+**things I like to trend**    
 ![Quantum and AI Stocks](https://raw.githubusercontent.com/sdncoder/workflows/main/stock_chart.png)
