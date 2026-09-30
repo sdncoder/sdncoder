@@ -7,7 +7,7 @@
 *[Data center spine-leaf for Olympics production](https://www.sportsvideo.org/2024/07/16/nbc-sports-selects-cisco-for-paris-olympics-ip-networking-support/)* — Sports Video Group, Jul 2024  
 *[The network is the new production truck](https://siliconangle.com/2026/02/03/network-new-production-truck-nbc-sports-betting-big-ai-networking-2026-winter-games/)* — SiliconANGLE, Feb 2026  
 🎥 *[Operational AI Insight](https://www.youtube.com/watch?v=A3yI-mZGIQ8)* — Tech Unscripted podcast - Jul 2026  
-🎥 *[Cisco IP Fabric Commercial](https://f.io/orOpCVkJ) on LinkedIn:(https://lnkd.in/p/dtBypkWu)* — Sports and data center fabrics - Cisco Marketing - Sep 2026  
+
   
 
 
