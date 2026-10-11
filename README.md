@@ -13,3 +13,8 @@
 
 **Things I like to trend**    
 ![Quantum and AI Stocks](https://raw.githubusercontent.com/sdncoder/workflows/main/stock_chart.png)
+
+
+**Network modeling**  
+*[network-models](https://github.com/sdncoder/network-models)* — NetworkX backbone models: latency, failure analysis, and traffic-engineered diverse paths  
+[![TE diverse paths DEN to AWS East](https://raw.githubusercontent.com/sdncoder/network-models/main/model2/output/te_DEN_AWSEast.png)](https://github.com/sdncoder/network-models/tree/main/model2)
