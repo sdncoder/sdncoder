@@ -13,3 +13,6 @@
 
 **Things I like to trend**    
 ![Quantum and AI Stocks](https://raw.githubusercontent.com/sdncoder/workflows/main/stock_chart.png)
+
+**Network graphs** — *[network-graphs](https://github.com/sdncoder/network-graphs)* (NetworkX models)  
+[![Backbone5 network model](https://raw.githubusercontent.com/sdncoder/network-graphs/main/backbone5/backbone5_model.png)](https://github.com/sdncoder/network-graphs/tree/main/backbone5)
