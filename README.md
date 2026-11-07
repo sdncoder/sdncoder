@@ -17,5 +17,5 @@
 **Network graphs** — *[network-graphs](https://github.com/sdncoder/network-graphs)* (NetworkX models)  
 [![Backbone5 network model](https://raw.githubusercontent.com/sdncoder/network-graphs/main/backbone5/backbone5_model.png)](https://github.com/sdncoder/network-graphs/tree/main/backbone5)  
 
-*Low Latency Prem-to-Cloud Plan1*  
+*Low Latency Prem-to-Cloud Plan1* — *[network-graphs/lowlatency-plan1](https://github.com/sdncoder/network-graphs/tree/main/lowlatency-plan1)* (per-circuit latency, KMZ paths)  
 [![Low Latency Prem-to-Cloud Plan1](https://raw.githubusercontent.com/sdncoder/network-graphs/main/lowlatency-plan1/lowlatency_plan1_model.png)](https://github.com/sdncoder/network-graphs/tree/main/lowlatency-plan1)
