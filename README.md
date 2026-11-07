@@ -1,7 +1,5 @@
 **All things network engineering deployment**
 
-*[📄 my info](https://github.com/sdncoder/cliffryan.github.io)*  
-
 **Articles, interviews, and podcasts** (*mostly spine-leaf and workflow to cloud*)  
 
 *[Data center spine-leaf for Olympics production](https://www.sportsvideo.org/2024/07/16/nbc-sports-selects-cisco-for-paris-olympics-ip-networking-support/)* — Sports Video Group, Jul 2024  
