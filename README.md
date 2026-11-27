@@ -1,4 +1,4 @@
-**All things network engineering deployment**
+$\huge\color{#1B5E20}\textbf{\textsf{All things network engineering deployment}}$
 
 **Articles, interviews, and podcasts** (*mostly spine-leaf and workflow to cloud*)  
 
